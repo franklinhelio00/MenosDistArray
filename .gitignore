@@ -1,0 +1,3 @@
+#Ignorando as pastas bin e obj para não subir no git
+/bin
+/obj
